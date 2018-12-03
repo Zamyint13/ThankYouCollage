@@ -7,7 +7,7 @@ void setup() {
   frameRate(60);
   background(255);
   Sleep = loadImage("Sleep.png");
-  image(Sleep, 100, 500, 494, 187);
+  //image(Sleep, 100, 500, 494, 187);
 }
 
 void draw() {
