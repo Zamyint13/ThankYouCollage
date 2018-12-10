@@ -15,7 +15,7 @@ void draw() {
   fill(200, 100, 200);
   textSize(50);
   text("Thank You Mom", 100, 100);
-  Sleep = loadImage("Sleep.png");
+ 
   image(Sleep, 100, 500, 494, 187);
   textSize(100);
   fill(200, 200, 200, random(200));
